@@ -5,6 +5,8 @@ This my attempt to build Filamentphp using vite.
 ## Installation
 
 ```bash
+git clone --single-branch --depth 1 --branch 4.x git@github.com:nagi1/filament.git filament-v4
+
 composer install
 npm install
 npm run build
